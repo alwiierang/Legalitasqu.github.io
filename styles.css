@@ -209,12 +209,6 @@ header p {
   align-items: center;
 }
 
-.image-grid img {
-  width: 100%; /* Mengatur gambar agar memenuhi kolom */
-  height: auto;
-  border-radius: 8px; /* Opsional: memberikan sudut melengkung */
-}
-
 footer {
   text-align: center;
   padding: 20px;
