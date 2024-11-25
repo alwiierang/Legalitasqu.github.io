@@ -201,14 +201,6 @@ header p {
   margin: 20px auto;
 }
 
-.image-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 10px; /* Spasi antar gambar */
-  justify-content: center;
-  align-items: center;
-}
-
 footer {
   text-align: center;
   padding: 20px;
